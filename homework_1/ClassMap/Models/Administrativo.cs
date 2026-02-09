@@ -6,7 +6,7 @@ public class Administrativo : Empleado
 
     public override string ToString()
     {
-        return base.ToString() + $"Area de Gestion: {Position}";
+        return base.ToString() + $" Area de Gestion: {Position}";
     }
 }
 

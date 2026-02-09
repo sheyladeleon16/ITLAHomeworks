@@ -12,6 +12,6 @@ public class Empleado : MiembroDeComunidad
 
     public override string ToString()
     {
-        return base.ToString() + $", Departamento: {Departament}, Cargo: {JobTitle}";
+        return base.ToString() + $", Departamento: {Departament}, Cargo: {JobTitle},";
     }
 }
