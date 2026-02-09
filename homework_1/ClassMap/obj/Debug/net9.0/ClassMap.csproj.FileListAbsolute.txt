@@ -1,0 +1,15 @@
+/Users/shey/Desktop/ITLAHomeworks/homework_1/ClassMap/bin/Debug/net9.0/ClassMap
+/Users/shey/Desktop/ITLAHomeworks/homework_1/ClassMap/bin/Debug/net9.0/ClassMap.deps.json
+/Users/shey/Desktop/ITLAHomeworks/homework_1/ClassMap/bin/Debug/net9.0/ClassMap.runtimeconfig.json
+/Users/shey/Desktop/ITLAHomeworks/homework_1/ClassMap/bin/Debug/net9.0/ClassMap.dll
+/Users/shey/Desktop/ITLAHomeworks/homework_1/ClassMap/bin/Debug/net9.0/ClassMap.pdb
+/Users/shey/Desktop/ITLAHomeworks/homework_1/ClassMap/obj/Debug/net9.0/ClassMap.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shey/Desktop/ITLAHomeworks/homework_1/ClassMap/obj/Debug/net9.0/ClassMap.AssemblyInfoInputs.cache
+/Users/shey/Desktop/ITLAHomeworks/homework_1/ClassMap/obj/Debug/net9.0/ClassMap.AssemblyInfo.cs
+/Users/shey/Desktop/ITLAHomeworks/homework_1/ClassMap/obj/Debug/net9.0/ClassMap.csproj.CoreCompileInputs.cache
+/Users/shey/Desktop/ITLAHomeworks/homework_1/ClassMap/obj/Debug/net9.0/ClassMap.sourcelink.json
+/Users/shey/Desktop/ITLAHomeworks/homework_1/ClassMap/obj/Debug/net9.0/ClassMap.dll
+/Users/shey/Desktop/ITLAHomeworks/homework_1/ClassMap/obj/Debug/net9.0/refint/ClassMap.dll
+/Users/shey/Desktop/ITLAHomeworks/homework_1/ClassMap/obj/Debug/net9.0/ClassMap.pdb
+/Users/shey/Desktop/ITLAHomeworks/homework_1/ClassMap/obj/Debug/net9.0/ClassMap.genruntimeconfig.cache
+/Users/shey/Desktop/ITLAHomeworks/homework_1/ClassMap/obj/Debug/net9.0/ref/ClassMap.dll

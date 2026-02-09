@@ -6,6 +6,6 @@ public class Maestro : Docente
 
     public override string ToString()
     {
-        return $"Grado: {grade}";
+        return base.ToString() + $" Grado: {grade}";
     }
 }

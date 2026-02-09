@@ -6,6 +6,11 @@ public class Docente : Empleado
 
     public override string GetRole()
     {
-        return $"Docente de {Subject}";
+        return $"Docente";
+    }
+
+    public override string ToString()
+    {
+        return base.ToString() + $" Asignatura: {Subject}" ;
     }
 }
